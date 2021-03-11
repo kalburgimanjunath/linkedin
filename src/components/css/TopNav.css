@@ -1,0 +1,12 @@
+.topmenu {
+  background-color: #202020;
+  color: #f2f2f2;
+  font-weight: 400;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 0px 50px;
+}
+.topmenu-item {
+  padding: 5px;
+}
